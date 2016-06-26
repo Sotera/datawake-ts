@@ -1,0 +1,25 @@
+{
+  "name": "genie-exec-ui",
+  "version": "0.0.2",
+  "description": "AngularJS2 (with TypeScript) implementation of genie-exec web app",
+  "scripts": {
+    "postinstall": "npm run typings",
+    "typings": "typings install"
+  },
+  "author": "John Reeme <john.reeme@soteradefense.com> (http://soteradefense.com)",
+  "license": "WTFPL",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "angular2": "2.0.0-beta.14",
+    "bootstrap": "^3.3.6",
+    "es6-shim": "^0.35.0",
+    "font-awesome": "^4.6.1",
+    "jquery": "^2.2.3",
+    "rdash-ui": "^1.0.1",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.2",
+    "systemjs": "0.19.25",
+    "zone.js": "0.6.6"
+  }
+}

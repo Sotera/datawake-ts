@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "removeComments": true,
+    "sourceMap": true,
+    "outDir": "../server"
+  },
+  "exclude":[
+    "typings/main",
+    "node_modules",
+    "typings/main.d.ts"
+  ]
+}
