@@ -4,7 +4,7 @@
   "main": "app/server.js",
   "scripts": {
     "postinstall": "npm run typings",
-    "typings": "cd server-src && typings install",
+    "typings": "cd server-src && typings install && cd ../client && npm install",
     "start": "node server/server.js"
   },
   "dependencies": {
