@@ -39,7 +39,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="rdash" />
       </map>
     </option>
   </component>
@@ -271,7 +271,7 @@
       <workItem from="1466951281104" duration="187000" />
       <workItem from="1466951871351" duration="1245000" />
       <workItem from="1467038464197" duration="22000" />
-      <workItem from="1467050547243" duration="330000" />
+      <workItem from="1467050547243" duration="374000" />
     </task>
     <task id="LOCAL-00001" summary="Next iteration">
       <created>1466952478011</created>
@@ -280,11 +280,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466952478011</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Push to branch rdash">
+      <created>1467050896780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1467050896780</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3377000" />
+    <option name="totallyTimeSpent" value="3421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1922" height="1055" extended-state="6" />
@@ -317,7 +324,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Next iteration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Next iteration" />
+    <MESSAGE value="Push to branch rdash" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push to branch rdash" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
